@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krishnamistry14 
+- 👋 Hi, I’m @krishnamistry
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: (https://www.linkedin.com/in/krishna-mistry-784a271b4/)
 - 😄 Pronouns: She/Her
